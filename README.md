@@ -20,6 +20,7 @@ Key characteristics of DP Framework:
 `data-pipelines-CLI`: [Project on GitHub](https://github.com/getindata/data-pipelines-cli) ([documentation](https://data-pipelines-cli.readthedocs.io/en/latest/index.html))
 ![img.png](images/data-pipelines-cli-diagram.png)
 
+data-pipelines-CLI:
 * Building and managing data pipelines
 * Interaction with the whole data environment
 * Abstraction layer hiding complexity from the end user
